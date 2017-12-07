@@ -1,3 +1,5 @@
+## NEM Data-Challenge Winner
+
 Back in July 2017, NEM Solutions launched NEM Data Challenge. It was a digital challenge candidates could achieve a job inside NEM Solutions’ team, apart from other job offers coming through other partners in this initiative: Siemens-Gamesa Renewable Energy and Tecnalia. The aim of NEM Data Challenge was to identify worldwide energy and mobility data processing profiles.
 
 Worldwide participants were accepted and the best profiles awardeded. The first two stages were carried out online, and the last one consisted of a week internship at NEM Solutions. The financial costs of the stay was covered by Siemens Gamesa, Tecnalia and NEM Solutions.
