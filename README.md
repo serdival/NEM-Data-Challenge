@@ -7,4 +7,4 @@ Worldwide participants were accepted and the best profiles awardeded. The first 
 
 The challenge was focused on the wind energy sector and in business oriented data. NEM was looking for profiles capable of processing data and to get value from it in order solve real problems. More information and contest rules in the following link: www.nemsolutionsevents.com
 
-![alt text](NEM-Data-Challenge/figs/DataChallenge.JPG?raw=true "Title")
+![alt text](NEM-Data-Challenge/figs/DataChallenge.JPG)
