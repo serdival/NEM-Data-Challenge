@@ -8,5 +8,8 @@ The challenge was focused on the wind energy sector and in business oriented dat
 
 In the Github repository code section, you can find the Python scripts I used to solve the tasks proposed in the three data-challenge stages. Further description of the data challenge together with the final reports submitted at the end of each stage can be found in the Wiki section.
 
+![DataCHallenge](figs/DataChallenge.jpg)
+
+
 Kindest!
 
