@@ -1,6 +1,6 @@
 ## NEM Data Challenge Winner
 
-Back in July 2017, NEM Solutions launched NEM Data Challenge. The aim of NEM Data Challenge was to identify worldwide wind energy and rail data processing profiles.
+Back in July 2017, [NEM Solutions](http://nemsolutions.com) launched NEM Data Challenge. The aim of NEM Data Challenge was to identify worldwide wind energy and rail data processing profiles.
 
 Worldwide participants were accepted and the best profiles awardeded. The first two stages were carried out online, and the last one consisted of a two-weeks internship at NEM Solutions. The financial costs of the stay was covered by Siemens Gamesa, Tecnalia and NEM Solutions.
 
