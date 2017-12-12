@@ -10,15 +10,15 @@ The challenge was focused on the wind energy sector and in business oriented dat
 
 
 ### 1st Stage:
-Each candidate received a CSV dataset of approximately 10GB. The file contained about 375 million rows of timestamp / variable / value (sampling frequency in seconds). The goal was to ìhorizontalizeî the dataset calculating ten-minute averages. Once the file was processed, the participant had to make a data quality analysis in a graphical report allowing NEM to visually understand the quality of the processed data.
+Each candidate received a CSV dataset of approximately 10GB. The file contained about 375 million rows of timestamp / variable / value (sampling frequency in seconds). The goal was to ‚Äúhorizontalize‚Äù the dataset calculating ten-minute averages. Once the file was processed, the participant had to make a data quality analysis in a graphical report allowing NEM to visually understand the quality of the processed data.
 
 ### 2nd Stage:
 The candidates was asked to develop a module capable of predicting the energy production to a given weather forecast. To this effect, a 5 months historical dataset (SCADA + weather forecast) was provided.
 
 
-In this Github repository you can find the Python scripts I used to solve the tasks proposed throughout the three Data Challenge phases together with the final reports submitted. 
+In this Github repository you can find the Python scripts and technical reports I used to solve the proposed tasks and end up winning the challenge. 
 
-Hope you find it useful,
+Hope you find it useful.
 
 Sergio
 
