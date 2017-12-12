@@ -8,8 +8,8 @@ The challenge was focused on the wind energy sector and in business oriented dat
 
 ![DataChallenge](figures/DataChallengeInfograph.png)
 
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:6310410678079356929" height="527" width="504" frameborder="0" allowfullscreen=""></iframe>
+![DataChallenge2]
+(<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:6310410678079356929" height="527" width="504" frameborder="0" allowfullscreen=""></iframe>)
 
 
 In this repository you can find the Python scripts I used to solve the tasks proposed throughout the three stages together with the final reports submitted at the end of stage I and II. 
